@@ -87,17 +87,3 @@ If you encounter any issues or need help, feel free to open an issue on the [Git
 
 Enjoy managing your voice channels with ease! 😎🎧
 ```
-
-### Key Sections:
-1. **Introduction**: Describes the bot's purpose.
-2. **Features**: Lists all the available commands and functionalities of the bot.
-3. **Installation**: Provides clear steps on how to set up and run the bot.
-4. **Requirements**: Lists the Python version and libraries required.
-5. **Permissions**: Details the permissions the bot needs in Discord.
-6. **License and Support**: Mentions licensing and how users can get help.
-
-### Notes:
-- Replace `yourusername` with your actual GitHub username in the repository URL.
-- You can also customize the **Support** section with the correct issue link once the repo is live.
-
-Let me know if you'd like any changes!
